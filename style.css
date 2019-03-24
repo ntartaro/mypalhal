@@ -1,0 +1,57 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: black;
+}
+
+.grey-border {
+    border-color: #cbcbcb #4e474e #4e474e #cbcbcb;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.splash {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.splash-container {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background: #adadad;
+}
+
+.title-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+}
+
+.title-one {
+    font-size: 70px;
+}
+
+.title-two {
+    display: flex;
+    flex-direction: row;
+    font-size: 40px;
+    margin-top: 25px;
+}
+
+.fire {
+    margin: 0 10px;
+    font-size: 50px;
+}
+
+.usa {
+    width: 130px;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
